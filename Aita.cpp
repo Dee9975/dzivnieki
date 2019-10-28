@@ -15,3 +15,11 @@ void Aita::printAitasDati() {
 float Aita::dotVilnu() {
   return this->svars / 100;
 }
+
+void Aita::izdodSkanu() {
+  std::cout << this->vards << " blej"<< std::endl;
+}
+
+void Aita::est(std::string bariba) {
+  std::cout << std::endl << "Aita " << this->vards << " ed " << bariba << std::endl;
+}
