@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/dzivnieki.dir/main.cpp.o CMakeFiles/dzivnieki.dir/Dzivnieks.cpp.o CMakeFiles/dzivnieki.dir/Aita.cpp.o  -o dzivnieki 

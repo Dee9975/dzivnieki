@@ -1,0 +1,3 @@
+/home/matiss/CLionProjects/dzivnieki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matiss/CLionProjects/dzivnieki/cmake-build-debug/CMakeFiles/dzivnieki.dir
+/home/matiss/CLionProjects/dzivnieki/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matiss/CLionProjects/dzivnieki/Aita.cpp
+iostream
+-
+Aita.h
+/home/matiss/CLionProjects/dzivnieki/Aita.h
+
+/home/matiss/CLionProjects/dzivnieki/Aita.h
+Dzivnieks.h
+/home/matiss/CLionProjects/dzivnieki/Dzivnieks.h
+
+/home/matiss/CLionProjects/dzivnieki/Dzivnieks.h
+string
+-
+
