@@ -16,7 +16,7 @@ float Aita::dotVilnu() {
   return this->svars / 100;
 }
 
-void Aita::izdodSkanu() {
+void Aita::izdotSkanu() {
   std::cout << this->vards << " blej"<< std::endl;
 }
 

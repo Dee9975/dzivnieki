@@ -9,7 +9,9 @@ int main() {
   dz->izdotSkanu();
 
   Aita *a = new Aita;
+  a->est("sienu");
   a->izdotSkanu();
+  a->dotVilnu();
 
   Dzivnieks *va = new Aita;
   va->izdotSkanu();

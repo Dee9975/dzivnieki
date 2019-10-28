@@ -14,7 +14,7 @@ public:
   Aita();
   void printAitasDati();
   float dotVilnu();
-  void izdodSkanu();
+  void izdotSkanu();
   void est(std::string bariba);
 };
 
