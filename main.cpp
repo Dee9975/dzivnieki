@@ -4,6 +4,8 @@
 
 int main() {
   Dzivnieks *dz = new Dzivnieks;
+  dz->setVards("Tofiks");
+  dz->est("Baribu");
   dz->izdotSkanu();
 
   Aita *a = new Aita;

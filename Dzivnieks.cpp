@@ -14,10 +14,10 @@ std::string Dzivnieks::getVards() {
 }
 
 void Dzivnieks::est(std::string bariba) {
-  std::cout << std::endl << this->vards << "ed" << bariba << std::endl;
+  std::cout << std::endl << this->vards << " ed " << bariba << std::endl;
 }
 
 void Dzivnieks::izdotSkanu() {
-  std::cout << std::endl << this->vards << "izdod skanu";
+  std::cout << std::endl << this->vards << " izdod skanu ";
   std::cin.get();
 }

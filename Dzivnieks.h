@@ -14,7 +14,7 @@ public:
   void setVards(std::string vards);
   std::string getVards();
 
-  void est(std::string bariba);
+  virtual void est(std::string bariba);
   virtual void izdotSkanu();
 };
 
