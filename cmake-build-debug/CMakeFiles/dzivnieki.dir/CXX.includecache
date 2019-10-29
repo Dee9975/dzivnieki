@@ -6,19 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/matiss/CLionProjects/dzivnieki/Aita.cpp
-iostream
--
-Aita.h
 /home/matiss/CLionProjects/dzivnieki/Aita.h
-
-/home/matiss/CLionProjects/dzivnieki/Aita.h
-Dzivnieks.h
-/home/matiss/CLionProjects/dzivnieki/Dzivnieks.h
-
-/home/matiss/CLionProjects/dzivnieki/Dzivnieks.cpp
-iostream
--
 Dzivnieks.h
 /home/matiss/CLionProjects/dzivnieki/Dzivnieks.h
 
