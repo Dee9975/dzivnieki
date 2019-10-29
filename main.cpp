@@ -23,6 +23,7 @@ int main() {
    * Bazes klase, kas izmanto atvasinatas klases funkcijas
    */
   Dzivnieks *va = new Aita;
+  va->setVards("Shawny");
   va->izdotSkanu();
   va->est("Salmi");
   return 0;
